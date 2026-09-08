@@ -1,0 +1,23 @@
+{
+  "restaurant": "Au Bout Des Doigts",
+  "city": "N'Djamena",
+  "country": "Chad",
+  "note": "Authentic photos of the restaurant were provided directly by the user in this conversation (received via Telegram, 2026-09-07) and are used with the understanding that the user has the right to share and publish them. Several carry the restaurant's own 'Au bout des doigts' watermark, confirming they are the venue's own marketing photos. Where no authentic photo covers a category (cocktails, a bottled wine close-up, a specific 'local dish' shot), a licensed Unsplash stock photo is used instead and marked as a placeholder below.",
+  "authentic_images": [
+    { "id": "auth-01", "category": "atmosphere", "description": "Open-air movie night poolside on the terrace", "file": "atmosphere/terrace-cinema-night.jpg", "verified_identity": true, "placeholder": false, "source": "Provided by user via Telegram, 2026-09-07", "used_in": ["hero", "gallery"] },
+    { "id": "auth-02", "category": "atmosphere", "description": "Kids' pizza-making workshop on the terrace, bunting flags, branded pizza boxes visible", "file": "atmosphere/kids-pizza-workshop.jpg", "verified_identity": true, "placeholder": false, "source": "Provided by user via Telegram, 2026-09-07", "used_in": ["gallery"] },
+    { "id": "auth-03", "category": "food", "description": "Three pasta dishes (pesto, arrabbiata-style, creamy prosciutto) on Ankara-print linen with flatbread", "file": "food/pasta-trio.jpg", "verified_identity": true, "placeholder": false, "source": "Provided by user via Telegram, 2026-09-07", "used_in": ["signature-carousel:italian", "gallery"] },
+    { "id": "auth-04", "category": "interior", "description": "Chef preparing pizza dough at the indoor counter, bar fridges in background", "file": "interior/pizza-prep-counter.jpg", "verified_identity": true, "placeholder": false, "source": "Provided by user via Telegram, 2026-09-07", "used_in": ["about", "gallery"] },
+    { "id": "auth-05", "category": "drinks", "description": "Chianti, Lambrusco and Prosecco bottles on wine barrels with Italian bunting", "file": "drinks/wine-bottles-bar.jpg", "verified_identity": true, "placeholder": false, "source": "Provided by user via Telegram, 2026-09-07", "used_in": ["bar-section", "gallery"] },
+    { "id": "auth-06", "category": "pizza", "description": "Wood-fired pizza topped with prosciutto, arugula and shaved parmesan", "file": "pizza/prosciutto-arugula-pizza.jpg", "verified_identity": true, "placeholder": false, "source": "Provided by user via Telegram, 2026-09-07", "used_in": ["signature-carousel:pizza", "gallery"] },
+    { "id": "auth-07", "category": "food", "description": "Grilled meat skewers, tray watermarked with the restaurant's own logo", "file": "food/grilled-skewers.jpg", "verified_identity": true, "placeholder": false, "source": "Provided by user via Telegram, 2026-09-07", "used_in": ["signature-carousel:grilled", "gallery"] },
+    { "id": "auth-08", "category": "food", "description": "Mango, avocado, prosciutto and goat cheese salad, plate watermarked with the restaurant's own logo", "file": "food/mango-avocado-salad.jpg", "verified_identity": true, "placeholder": false, "source": "Provided by user via Telegram, 2026-09-07", "used_in": ["gallery"] },
+    { "id": "auth-09", "category": "terrace", "description": "Lounge terrace seating arranged for an event, balloon garland", "file": "terrace/terrace-lounge-seating.jpg", "verified_identity": true, "placeholder": false, "source": "Provided by user via Telegram, 2026-09-07", "used_in": ["lounge-section", "gallery"] }
+  ],
+  "stock_placeholder_images": [
+    { "id": "stock-01", "category": "drinks", "description": "Craft cocktail close-up (stock — no authentic cocktail photo available)", "source": "https://images.unsplash.com/photo-1470337458703-46ad1756a187", "verified_identity": false, "placeholder": true, "used_in": ["signature-carousel:bar"] },
+    { "id": "stock-02", "category": "drinks", "description": "Wine glasses (stock — bottle shot auth-05 used for the main Bar section instead)", "source": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3", "verified_identity": false, "placeholder": true, "used_in": ["signature-carousel:wine"] },
+    { "id": "stock-03", "category": "food", "description": "Tomato and basil ingredients (stock — no authentic 'local dish' photo available)", "source": "https://images.unsplash.com/photo-1571997478779-2adcbbe9ab2f", "verified_identity": false, "placeholder": true, "used_in": ["signature-carousel:local"] }
+  ],
+  "videos": []
+}
